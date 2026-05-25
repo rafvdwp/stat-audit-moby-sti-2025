@@ -15,7 +15,7 @@
 ### Member A — Muhammad Raffy Dwiputra
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Data Collecting | Claude | Tolong buatkan code cleaning data untuk file raw yang saya berikan | Mengambil referensi code untuk cleaning data |
 
 ### Member B — Muhammad Yusuf Jiddan
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
