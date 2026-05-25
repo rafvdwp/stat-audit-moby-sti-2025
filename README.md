@@ -23,25 +23,27 @@
 
 ## 📁 Struktur Repository
 stat-audit-moby-sti-2025/
-├── README.md
-├── AI_USAGE_LOG.md
-├── data/
-│   ├── raw/            ← data asli GitHub API, tidak pernah diubah
-│   └── clean/          ← dataset.csv, issues.csv, weekly_bugs.csv
-├── src/
-│   ├── estimator.py    ← Member B
-│   ├── inference.py    ← Member C
-│   ├── hypothesis.py   ← Member D
-│   └── simulation.py   ← Member E
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_estimation.ipynb
-│   ├── 03_confidence_interval.ipynb
-│   ├── 04_hypothesis_testing.ipynb
-│   └── 05_simulation.ipynb
-├── report/statistical_health_report.pdf
-├── presentation/video_link.md
-└── requirements.txt
+  → README.md
+  → AI_USAGE_LOG.md
+  → data/
+      → raw/        (data asli GitHub API)
+      → clean/      (dataset.csv, issues.csv)
+  → src/
+      → estimator.py   [Member B]
+      → inference.py   [Member C]
+      → hypothesis.py  [Member D]
+      → simulation.py  [Member E]
+  → notebooks/
+      → 01_eda.ipynb
+      → 02_estimation.ipynb
+      → 03_confidence_interval.ipynb
+      → 04_hypothesis_testing.ipynb
+      → 05_simulation.ipynb
+  → report/
+      → statistical_health_report.pdf
+  → presentation/
+      → video_link.md
+  → requirements.txt
 
 ## 🚀 Cara Menjalankan
 
