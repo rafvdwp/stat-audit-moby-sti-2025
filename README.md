@@ -17,7 +17,7 @@
 |--------|------|-----|-------|
 | A | Muhammad Raffy Dwiputra | 1519625040 | Data Engineer |
 | B | Muhammad Yusuf Jiddan | 1519625062 | Estimation Analyst |
-| C | Dhida Framudya Wiradonna | 1519625017 | Inference Analyst |
+| C | Dhida Framudya Wiradonna | 1519625051 | Inference Analyst |
 | D | Malik Alfat Muzaki | 1519625051 | Hypothesis Analyst |
 | E | Audylia Aska Widyaputri | 1519625036 | Computation Analyst |
 
