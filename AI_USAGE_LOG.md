@@ -8,7 +8,7 @@
 | Muhammad Yusuf Jiddan | Estimation Analyst | Claude | 65 % | No |
 | Dhida Framudya Wiradonna | Inference Analyst | - | - % | No |
 | Malik Alfat Muzaki | Hypothesis Analyst | - | - % | No |
-| Audylia Aska Widiaputri | Computation Analyst | - | - % | No |
+| Audylia Aska Widiaputri | Computation Analyst | Claude | 65 % | No |
 
 ## Per-Member Detail
 
@@ -35,7 +35,7 @@
 ### Member E — Audylia Aska Widiaputri
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Diskusi pendekatan simulasi | Claude | "Metode Monte Carlo yang cocok untuk dataset issue tracking?" | Dijadikan referensi pemilihan metode, disesuaikan dengan dataset |
 
 ## Group Reflection (150–300 kata)
 
