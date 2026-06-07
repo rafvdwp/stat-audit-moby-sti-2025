@@ -6,7 +6,7 @@
 |--------|-------|-------|--------------------|-----------------------------|
 | Muhammad Raffy Dwiputra | Data Engineer | Claude, Gemini | 65 % | No |
 | Muhammad Yusuf Jiddan | Estimation Analyst | Claude | 65 % | No |
-| Dhida Framudya Wiradonna | Inference Analyst | - | - % | No |
+| Dhida Framudya Wiradonna Handled By. Member A | Inference Analyst | Claude | 50 % | No |
 | Malik Alfat Muzaki | Hypothesis Analyst | - | - % | No |
 | Audylia Aska Widiaputri | Computation Analyst | Claude | 65 % | No |
 
@@ -22,10 +22,10 @@
 |---|------|------|------------------|----------------------|
 | 1 | | | | |
 
-### Member C — Dhida Framudya Wiradonna
+### Member C — Dhida Framudya Wiradonna Handled By. Member A
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Referensi Peggunaan Scipy | Calude | Cara ambil nilai Z kritis dan Kuantil dari Scipy | Mengetahui nama fungsi yang tepat dan singtaks fungsi pada logika α=k+1 dan β=m+1 diverifikasi mandiri dari Tsun p.269 |
 
 ### Member D — Malik Alfat Muzaki
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
