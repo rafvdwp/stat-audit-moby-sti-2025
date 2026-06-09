@@ -20,12 +20,12 @@
 ### Member B — Muhammad Yusuf Jiddan
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Estimation py | Claude | Bantu buatkan dan jabarkan estimator py sesuai file panduan yang saya kasih | Untuk memahami role yang diambil dan dijadikan sebagai referensi |
 
-### Member C — Dhida Framudya Wiradonna
+### Member C — Dhida Framudya Wiradonna Handled By. Member A
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Referensi Peggunaan Scipy | Calude | Cara ambil nilai Z kritis dan Kuantil dari Scipy | Mengetahui nama fungsi yang tepat dan singtaks fungsi pada logika α=k+1 dan β=m+1 diverifikasi mandiri dari Tsun p.269 |
 
 ### Member D — Malik Alfat Muzaki
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
@@ -35,7 +35,7 @@
 ### Member E — Audylia Aska Widiaputri
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Diskusi pendekatan simulasi | Claude | "Metode Monte Carlo yang cocok untuk dataset issue tracking?" | Dijadikan referensi pemilihan metode, disesuaikan dengan dataset |
 
 ## Group Reflection (150–300 kata)
 
