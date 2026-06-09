@@ -4,11 +4,11 @@
 
 | Member | Peran | Tools | ~% Kode AI-assisted | Interpretation AI-assisted? |
 |--------|-------|-------|--------------------|-----------------------------|
-| Muhammad Raffy Dwiputra | Data Engineer | Claude, Gemini | 65 % | No |
-| Muhammad Yusuf Jiddan | Estimation Analyst | - | - % | No |
-| Dhida Framudya Wiradonna | Inference Analyst | - | - % | No |
+| Muhammad Raffy Dwiputra | Data Engineer | Claude, Gemini | 55 % | No |
+| Muhammad Yusuf Jiddan | Estimation Analyst | - | 65 % | No |
+| Dhida Framudya Wiradonna | Inference Analyst | - | 50 % | No |
 | Malik Alfat Muzaki | Hypothesis Analyst | Claude | 50 % | No |
-| Audylia Aska Widiaputri | Computation Analyst | - | - % | No |
+| Audylia Aska Widiaputri | Computation Analyst | - | 55 % | No |
 
 ## Per-Member Detail
 
