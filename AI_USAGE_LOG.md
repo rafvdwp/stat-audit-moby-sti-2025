@@ -7,7 +7,7 @@
 | Muhammad Raffy Dwiputra | Data Engineer | Claude, Gemini | 65 % | No |
 | Muhammad Yusuf Jiddan | Estimation Analyst | - | - % | No |
 | Dhida Framudya Wiradonna | Inference Analyst | - | - % | No |
-| Malik Alfat Muzaki | Hypothesis Analyst | - | - % | No |
+| Malik Alfat Muzaki | Hypothesis Analyst | Claude | 50 % | No |
 | Audylia Aska Widiaputri | Computation Analyst | - | - % | No |
 
 ## Per-Member Detail
