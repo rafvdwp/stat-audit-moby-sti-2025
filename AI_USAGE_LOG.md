@@ -5,10 +5,10 @@
 | Member | Peran | Tools | ~% Kode AI-assisted | Interpretation AI-assisted? |
 |--------|-------|-------|--------------------|-----------------------------|
 | Muhammad Raffy Dwiputra | Data Engineer | Claude, Gemini | 55 % | No |
-| Muhammad Yusuf Jiddan | Estimation Analyst | - | 65 % | No |
-| Dhida Framudya Wiradonna | Inference Analyst | - | 50 % | No |
+| Muhammad Yusuf Jiddan | Estimation Analyst | Claud | 65 % | No |
+| Dhida Framudya Wiradonna | Inference Analyst | Claude, Gemini | 50 % | No |
 | Malik Alfat Muzaki | Hypothesis Analyst | Claude | 50 % | No |
-| Audylia Aska Widiaputri | Computation Analyst | - | 55 % | No |
+| Audylia Aska Widiaputri | Computation Analyst | Claude | 55 % | No |
 
 ## Per-Member Detail
 
@@ -25,7 +25,7 @@
 ### Member C — Dhida Framudya Wiradonna Handled By. Member A
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | Referensi Peggunaan Scipy | Calude | Cara ambil nilai Z kritis dan Kuantil dari Scipy | Mengetahui nama fungsi yang tepat dan singtaks fungsi pada logika α=k+1 dan β=m+1 diverifikasi mandiri dari Tsun p.269 |
+| 1 | Referensi Peggunaan Scipy | Claude | Cara ambil nilai Z kritis dan Kuantil dari Scipy | Mengetahui nama fungsi yang tepat dan sintaks fungsi pada logika α=k+1 dan β=m+1 diverifikasi mandiri dari Tsun p.269 |
 
 ### Member D — Malik Alfat Muzaki
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
