@@ -38,5 +38,9 @@
 | 1 | Diskusi pendekatan simulasi | Claude | "Metode Monte Carlo yang cocok untuk dataset issue tracking?" | Dijadikan referensi pemilihan metode, disesuaikan dengan dataset |
 
 ## Group Reflection (150–300 kata)
+How did your group's use of AI evolve over three weeks? What did AI handle well?
+Where did output need significant correction? Was there a moment you chose _not_
+to use AI — and why?
 
 Jawab:
+Perkembangan penggunaan AI kami menjadi lebih selektif. Jika pada awalnya AI digunakan untuk memperoleh contoh dan referensi umum, pada tahap akhir AI lebih banyak digunakan untuk memeriksa logika, memvalidasi implementasi. AI membantu menyelesaikan tugas tugas teknis dan repetitive, seperti memberikan contoh sintaks Python, menjelaskan penggunaan library statistik, menghasilkan kerangka kode awal, serta membantu memahami konsep statistik yang digunakan dalam proyek. Namun ada bagian yang kami memutuskan tidak menggunakkan AI seperti untuk logika berfikir dasar, seperti contoh menentukan RQ, karena jika menggunakkan AI, AI akan menggenerate secara halusinasi dan tidak sesuai konteks dari data yang kita ambil. Selain itu ada bagian bagian yang harus kita crosscheck dan berikan konteks ke AI terlebih dahulu, seperti jika kita asal menggenerate kerangka code maka AI akan membuat code tanpa mengetahui spesifikasi yang diminta tugas ini, jadi kita perlu crosscheck ulang.
