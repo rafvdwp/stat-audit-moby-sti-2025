@@ -20,7 +20,7 @@
 ### Member B — Muhammad Yusuf Jiddan
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Estimation py | Claude | Bantu buatkan dan jabarkan estimator py sesuai file panduan yang saya kasih | Untuk memahami role yang diambil dan dijadikan sebagai referensi |
 
 ### Member C — Dhida Framudya Wiradonna Handled By. Member A
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
