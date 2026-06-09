@@ -30,7 +30,7 @@
 ### Member D — Malik Alfat Muzaki
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
 |---|------|------|------------------|----------------------|
-| 1 | | | | |
+| 1 | Code Generate | Claude | Buat format code Python untuk one-sample Z-test dan two-sample Z-test | Dasar Kode sebelum saya kembangkan sesuai data yang saya miliki | 
 
 ### Member E — Audylia Aska Widiaputri
 | # | Task | Tool | Prompt (ringkas) | Cara output digunakan |
