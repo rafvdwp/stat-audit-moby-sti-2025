@@ -22,35 +22,37 @@
 | E | Audylia Aska Widyaputri | 1519625036 | Computation Analyst |
 
 ## 📁 Struktur Repository
-- stat-audit-moby-sti-2025/
-- → README.md
-- → AI_USAGE_LOG.md
-- → data/
--     → clean/
--        → commits_clean.csv
--        → issues_clean.csv
--        → pull_requests_clean.csv
--     → raw/
--        → commits_raw.csv
--        → fetch_data.py
--        → issues_raw.csv
--        → pull_requests_raw.csv
-- → src/
--     → estimator.py   [Member B]
--     → inference.py   [Member C]
--     → hypothesis.py  [Member D]
--     → simulation.py  [Member E]
-- → notebooks/
--     → 01_eda.ipynb
--     → 02_estimation.ipynb
--     → 03_confidence_interval.ipynb
--     → 04_hypothesis_testing.ipynb
--     → 05_simulation.ipynb
-- → report/
--     → statistical_health_report.pdf
-- → presentation/
--     → video_link.md
-- → requirements.txt
+- stat-audit-pandas-sti-2025/
+- ├── README.md
+- ├── AI_USAGE_LOG.md
+- ├── data/
+- │   ├── raw/
+- │   │   ├── commits_raw.csv
+- │   │   ├── fetch_data.py
+- │   │   ├── issues_raw.csv
+- │   │   └── pull_requests_raw.csv
+- │   └── clean/
+- │       ├── commits_clean.py
+- │       ├── issues_clean.csv
+- │       └── pull_requests.csv
+- ├── notebooks/
+- │   ├── 01_eda.ipynb
+- │   ├── 02_estimation.ipynb
+- │   ├── 03_confidence_interval.ipynb
+- │   ├── 04_hypothesis_testing.ipynb
+- │   └── 05_simulation.ipynb
+- ├── presentation/
+- │   └── video_link.md
+- ├── report/
+- │   └── statistical_health_report.pdf
+- ├── src/
+- │   ├── __pycache__/
+- │   │   └── inference.cpython-314.pyc
+- │   ├── estimator.py
+- │   ├── hypothesis.py
+- │   ├── inference.py
+- │   └── simulation.py
+- └── requirements.txt
 
 ## 🚀 Cara Menjalankan
 
