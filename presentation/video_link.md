@@ -1,6 +1,6 @@
-- **URL:** 
+- **URL:** https://youtu.be/Wzyau6YiU1o
 - **Platform:** YouTube (Unlisted)
-- **Durasi:**  
+- **Durasi:** 16:51  
 
 ## Indeks Timestamp
 
