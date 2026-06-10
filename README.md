@@ -46,7 +46,7 @@
 - ├── report/
 - │   └── statistical_health_report.pdf
 - ├── src/
-- │   ├── __pycache__/
+- │   ├── pycache/
 - │   │   └── inference.cpython-314.pyc
 - │   ├── estimator.py
 - │   ├── hypothesis.py
